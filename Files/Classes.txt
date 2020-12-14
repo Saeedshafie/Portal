@@ -1,0 +1,1 @@
+name=کلاس 1;countvahed=4;capasity=20;date=شنبه 8 تا 10;masterusername=samiei;

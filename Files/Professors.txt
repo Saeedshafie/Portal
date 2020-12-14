@@ -1,0 +1,2 @@
+﻿name=محمد سمیعی;username=samiei;password=12345678;mail=111;degree=دکتری;university=تهران;
+name=hd dd;username=dd;password=dddddddddd;mail=333;degree=dd;university=dd;

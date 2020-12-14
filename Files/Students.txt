@@ -1,0 +1,3 @@
+﻿name=کیارش مکوندی;username=kia1;password=12345678;studentnumber=111;course=پزشکی;grade=دکتری;credit=385;reservefood=000000000000100100100;
+name=ضض ضض;username=kia2;password=12345678;studentnumber=111;course=سس;grade=دکتری;credit=0;reservefood=000000000000000000000;
+name=ff ff;username=kia3;password=12345678;studentnumber=33;course=ff;grade=کارشناسی;credit=0;reservefood=000000000000000000000;

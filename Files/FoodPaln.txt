@@ -1,0 +1,7 @@
+day=saturday;breakfast=صبحانه شنبه;breakfastprice=100;lunch=ناهار شنبه;lunchprice=200;dinner=شام شنبه;dinnerprice=300;
+day=sunday;breakfast=صبحانه یکشنبه;breakfastprice=101;lunch=ناهار یکشنبه;lunchprice=201;dinner=شام یکشنبه;dinnerprice=301;
+day=monday;breakfast=صبحانه دوشنبه;breakfastprice=102;lunch=ناهار دوشنبه;lunchprice=202;dinner=شام دوشنبه;dinnerprice=302;
+day=tuseday;breakfast=صبحانه سه شنبه;breakfastprice=103;lunch=ناهار سه شنبه;lunchprice=203;dinner=شام سه شنبه;dinnerprice=303;
+day=wednesday;breakfast=صبحانه چهارشنبه;breakfastprice=104;lunch=ناهار چهارشنبه;lunchprice=204;dinner=شام چهارشنبه;dinnerprice=304;
+day=thursday;breakfast=صبحانه پنجشنبه;breakfastprice=105;lunch=ناهار پنجشنبه;lunchprice=205;dinner=شام پنجشنبه;dinnerprice=305;
+day=friday;breakfast=صبحانه جمعه;breakfastprice=106;lunch=ناهار جمعه;lunchprice=206;dinner=شام جمعه;dinnerprice=306;
